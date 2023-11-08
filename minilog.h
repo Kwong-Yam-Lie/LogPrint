@@ -1,6 +1,3 @@
-//
-// Created by gyli on 23-11-7.
-//
 #ifndef LOGPRINT__MINILOG_H_
 #define LOGPRINT__MINILOG_H_
 

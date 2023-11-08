@@ -6,7 +6,6 @@ INCLUDE_DIRECTORIES("/home/gyli/lib-gyli/fmt/include/fmt/")
 LINK_DIRECTORIES("/home/gyli/lib-gyli/fmt/lib/")
 
 add_executable(LogPrint main.cpp
-        b.cpp
         minilog.h)
 target_link_libraries(LogPrint libfmt.a)
 
