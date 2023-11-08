@@ -4,7 +4,7 @@
 #include <format.h>
 #include <source_location>
 #include <iostream>
-#include<utility>
+#include <utility>
 
 namespace minilog
 {
