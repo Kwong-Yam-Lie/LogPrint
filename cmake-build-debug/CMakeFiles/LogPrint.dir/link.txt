@@ -1,0 +1,1 @@
+/bin/g++ -g CMakeFiles/LogPrint.dir/main.cpp.o CMakeFiles/LogPrint.dir/b.cpp.o -o LogPrint   -L/home/gyli/lib-gyli/fmt/lib  -Wl,-rpath,/home/gyli/lib-gyli/fmt/lib -Wl,-Bstatic -lfmt -Wl,-Bdynamic 
